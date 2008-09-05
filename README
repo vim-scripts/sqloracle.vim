@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2371
+
+An earlier version of this script (valid for Oracle keywords from Oracle 8i) is included in the Vim 7.2 release. This version has been upgraded to include Oracle functions, and keywords from Oracle 11g.
